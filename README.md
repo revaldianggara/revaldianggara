@@ -56,4 +56,4 @@ Find out more about me & feel free to connect with me.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarmaulana95&layout=compact&theme=algolia" />
 </a> -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amarmaulana95)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=revaldianggara)
