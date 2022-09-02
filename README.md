@@ -54,22 +54,22 @@ Find out more about me & feel free to connect with me.
     </a>
   </code>
    <code>
-    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/R/R-icon.svg" alt="nginx">
+    <a href="https://www.r-project.com/" target="_blank" rel="noreferrer">
+      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/R/R-icon.svg" alt="R">
     </a>
   </code>
    <code>
-    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python">
     </a>
   </code>
   <code>
-    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer">
       <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu">
     </a>
   </code>
   <code>
-    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.redhat.com/" target="_blank" rel="noreferrer">
       <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat">
     </a>
   </code>
