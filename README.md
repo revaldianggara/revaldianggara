@@ -11,8 +11,6 @@
 ## My Playground
 <table><tr><td valign="top" width="33%">
 
-
-
 ### Software Development  
 <div align="center"> 
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
@@ -33,8 +31,6 @@
 </div>
 </td><td valign="top" width="33%">
   
-<br/>  
-
 ### Engine  
 <div align="center">  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
@@ -42,6 +38,16 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 </td><td valign="top" width="33%">
+
+
+### Infra   
+<div align="center">  
+<a href="https://azure.microsoft.com/id-id/" target="_blank"><img style="margin: 10px" src="https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg" alt="azure" height="80" /></a>   
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="80" /></a> 
+<a href="https://www.redhat.com/" target="_blank"><img style="margin: 10px" src="https://www.logo.wine/a/logo/Red_Hat/Red_Hat-Logo.wine.svg" height="70" /></a> 
+<a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" height="50" /></a>   
+</td></tr></table>  
+</div>
 
 <a href="https://id.linkedin.com/in/mochammad-revaldi-anggara-788a47163" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -54,16 +60,6 @@
 <a href="https://stackoverflow.com/users/19538369/fullstack-overflow" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-  
-### Infra   
-<div align="center">  
-<a href="https://azure.microsoft.com/id-id/" target="_blank"><img style="margin: 10px" src="https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg" alt="azure" height="80" /></a>   
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="80" /></a> 
-<a href="https://www.redhat.com/" target="_blank"><img style="margin: 10px" src="https://www.logo.wine/a/logo/Red_Hat/Red_Hat-Logo.wine.svg" height="70" /></a> 
-<a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" height="50" /></a>   
-</td></tr></table>  
-</div>
-
 
 [![Gmail Badge](https://img.shields.io/badge/-m.revaldianggara@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:m.revaldianggara@gmail.com)](mailto:m.revaldianggara@gmail.com)
 <br/> 
