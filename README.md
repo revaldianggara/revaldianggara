@@ -1,5 +1,5 @@
 
-# Hi I'm Valdi 👋🏻
+# 👋🏻
 👨‍💻 I’m an engineer who builds AI products.
 
 🌱 currently learning stuff about data.
