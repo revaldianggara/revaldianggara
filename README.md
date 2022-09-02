@@ -53,6 +53,26 @@ Find out more about me & feel free to connect with me.
       <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx">
     </a>
   </code>
+   <code>
+    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/R/R-icon.svg" alt="nginx">
+    </a>
+  </code>
+   <code>
+    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="nginx">
+    </a>
+  </code>
+  <code>
+    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu">
+    </a>
+  </code>
+  <code>
+    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat">
+    </a>
+  </code>
 </p>
 <!-- <a href="https://github.com/revaldianggara/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amarmaulana95&count_private=true&show_icons=true&include_all_commits=true&theme=algolia" alt="Amar github stats" />
