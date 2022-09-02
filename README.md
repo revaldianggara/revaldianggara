@@ -19,8 +19,8 @@ Find out more about me & feel free to connect with me.
     </a>
   </code>
   <code>
-    <a href="https://angular.org" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter">
+    <a href="https://angularjs.org" target="_blank" rel="noreferrer">
+      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angularjs">
     </a>
   </code>
   <code>
@@ -45,7 +45,12 @@ Find out more about me & feel free to connect with me.
   </code>
   <code>
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" alt="git">
+      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="git">
+    </a>
+  </code>
+  <code>
+    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx">
     </a>
   </code>
 </p>
