@@ -19,7 +19,7 @@ Find out more about me & feel free to connect with me.
     </a>
   </code>
   <code>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <a href="https://angular.org" target="_blank" rel="noreferrer">
       <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter">
     </a>
   </code>
@@ -44,15 +44,15 @@ Find out more about me & feel free to connect with me.
     </a>
   </code>
   <code>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
       <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" alt="git">
     </a>
   </code>
 </p>
-<!-- <a href="https://github.com/amarmaulana95/github-readme-stats">
+<!-- <a href="https://github.com/revaldianggara/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amarmaulana95&count_private=true&show_icons=true&include_all_commits=true&theme=algolia" alt="Amar github stats" />
 </a> -->
-<!-- <a href="https://github.com/amarmaulana95/github-readme-stats">
+<!-- <a href="https://github.com/revaldianggara/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarmaulana95&layout=compact&theme=algolia" />
 </a> -->
 
