@@ -1,84 +1,67 @@
-## Hi there, I'm Revaldi
-<!-- <img src="Assets/Hi.gif" width="15px"> -->
 
-Find out more about me & feel free to connect with me.
+# Hi I'm Valdi 👋🏻
+👨‍💻 I’m an engineer who builds AI products.
+
+🌱 currently learning stuff about data.
+
+🚀 eager to explore more about data. Loves working with data, analyze and make the raw information to the data that can produce more things.  
+
+--- 
+
+## My Playground
+<table><tr><td valign="top" width="33%">
 
 
-[![Gmail Badge](https://img.shields.io/badge/-m.revaldianggara@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:m.revaldianggara@gmail.com)](mailto:m.revaldianggara@gmail.com) <p>
-  <strong>Languages and Tools:</strong>
-</p>
-<p>
-  <code>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript">
-    </a>
-  </code>
-  <code>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs">
-    </a>
-  </code>
-  <code>
-    <a href="https://angularjs.org" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angularjs">
-    </a>
-  </code>
-  <code>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="git">
-    </a>
-  </code>
-  <code>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase">
-    </a>
-  </code>
-  <code>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git">
-    </a>
-  </code>
-  <code>
-    <a href="www.postgresql.org/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/233px-Postgresql_elephant.svg.png" alt="git">
-    </a>
-  </code>
-  <code>
-    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="git">
-    </a>
-  </code>
-  <code>
-    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx">
-    </a>
-  </code>
-   <code>
-    <a href="https://www.r-project.com/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/R/R-icon.svg" alt="R">
-    </a>
-  </code>
-   <code>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python">
-    </a>
-  </code>
-  <code>
-    <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu">
-    </a>
-  </code>
-  <code>
-    <a href="https://www.redhat.com/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat">
-    </a>
-  </code>
-</p>
-<!-- <a href="https://github.com/revaldianggara/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amarmaulana95&count_private=true&show_icons=true&include_all_commits=true&theme=algolia" alt="Amar github stats" />
-</a> -->
-<!-- <a href="https://github.com/revaldianggara/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarmaulana95&layout=compact&theme=algolia" />
-</a> -->
 
+### Software Development  
+<div align="center"> 
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a> 
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
+</div>
+</td><td valign="top" width="33%">
+
+
+### Engine  
+<div align="center">  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+</div>
+</td><td valign="top" width="33%">
+
+### Infra   
+<div align="center">  
+<a href="https://azure.microsoft.com/id-id/" target="_blank"><img style="margin: 10px" src="https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg" alt="azure" height="80" /></a>   
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="80" /></a> 
+<a href="https://www.redhat.com/" target="_blank"><img style="margin: 10px" src="https://www.logo.wine/a/logo/Red_Hat/Red_Hat-Logo.wine.svg" height="70" /></a> 
+<a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" height="50" /></a>   
+</td></tr></table>  
+</div>
+<br/>  
+
+<a href="https://id.linkedin.com/in/mochammad-revaldi-anggara-788a47163" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.kaggle.com/revaldianggara" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>  
+
+<a href="https://stackoverflow.com/users/19538369/fullstack-overflow" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+
+
+[![Gmail Badge](https://img.shields.io/badge/-m.revaldianggara@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:m.revaldianggara@gmail.com)](mailto:m.revaldianggara@gmail.com)
+<br/> 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=revaldianggara)
