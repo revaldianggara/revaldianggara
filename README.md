@@ -40,7 +40,7 @@
 </td><td valign="top" width="33%">
 
 
-### Infra   
+### Server tools   
 <div align="center">  
 <a href="https://azure.microsoft.com/id-id/" target="_blank"><img style="margin: 10px" src="https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg" alt="azure" height="80" /></a>   
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="80" /></a> 
