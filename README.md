@@ -6,8 +6,8 @@
 
 🚀 eager to explore more about data. Loves working with data, analyze and make the raw information to the data that can produce more things.  
 
+<!-- 
 --- 
-
 ## My Playground
 <table><tr><td valign="top" width="33%">
 
@@ -63,4 +63,5 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-m.revaldianggara@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:m.revaldianggara@gmail.com)](mailto:m.revaldianggara@gmail.com)
 <br/> 
+ -->
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=revaldianggara)
