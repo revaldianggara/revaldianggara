@@ -4,7 +4,7 @@
 
 🌱 currently learning stuff about data.
 
-🚀 eager to explore more about data. Loves working with data, analyze and make the raw information to the data that can produce more things.  
+🚀 Loves working with data, analyze and make the raw information to the data that can produce more things.  
 
 <!-- 
 --- 
