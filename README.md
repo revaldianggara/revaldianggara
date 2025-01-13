@@ -2,7 +2,7 @@
 # Hi! 👋🏻
 👨‍💻 I’m an engineer who builds AI products.
 
-🌱 currently learning stuff about data.
+🌱 currently learning stuff about data and MLOps Infrastructure.
 
 🚀 Loves working with data, analyze and make the raw information to the data that can produce more things.  
 
