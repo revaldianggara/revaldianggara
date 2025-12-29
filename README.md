@@ -1,8 +1,8 @@
 
 # Hi! 👋🏻
-👨‍💻 I’m an engineer who builds AI products.
+👨‍💻 I’m an engineer who builds AI products and automation.
 
-🌱 currently learning stuff about data and MLOps Infrastructure.
+🌱 currently learning stuff about Agentic AI & GenAI Ops.
 
 🚀 Loves working with data, analyze and make the raw information to the data that can produce more things.  
 
